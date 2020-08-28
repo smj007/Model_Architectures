@@ -5,3 +5,7 @@ Various Implementations of DL Model architectures
 - GNN
 - UNet
 - GANs
+
+
+**TO DO :**
+- Capsule Neural Networks
