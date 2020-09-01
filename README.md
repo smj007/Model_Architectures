@@ -8,7 +8,7 @@ Various Implementations of DL Model architectures
 
 
 **TO DEBUG :**
-- Capsule Neural Networks (TF 2.0)
+- Capsule Neural Networks (PyTorch)
 
 **To DO :** 
 - VAE
