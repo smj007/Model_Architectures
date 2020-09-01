@@ -7,5 +7,5 @@ Various Implementations of DL Model architectures
 - GANs
 
 
-**ONGOING :**
+**TO DEBUG :**
 - Capsule Neural Networks (TF 2.0)
