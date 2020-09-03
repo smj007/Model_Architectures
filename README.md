@@ -5,10 +5,11 @@ Various Implementations of DL Model architectures
 - GNN
 - UNet
 - GANs
+- VAE
 
 
 **TO DEBUG :**
 - Capsule Neural Networks (PyTorch)
 
 **To DO :** 
-- VAE
+- Conditional VAE
