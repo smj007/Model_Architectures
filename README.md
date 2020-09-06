@@ -7,6 +7,7 @@ Various Implementations of DL Model architectures
 - GANs
 - VAE (TF 1.x)
 - CVAE (TF 1.x)
+- Adversarial AE (TF 1.x)
 
 **TO DEBUG :**
 - Capsule Neural Networks (PyTorch)
