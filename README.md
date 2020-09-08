@@ -9,6 +9,7 @@ Various Implementations of DL Model architectures
 - CVAE (TF 1.x)
 - Adversarial AE (TF 1.x)
 - InfoGAN
+- BIGAN
 
 **TO DEBUG :**
 - Capsule Neural Networks (PyTorch)
