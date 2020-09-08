@@ -9,11 +9,11 @@ Various Implementations of DL Model architectures
 - CVAE (TF 1.x)
 - Adversarial AE (TF 1.x)
 - InfoGAN
-- BIGAN
+- BiGAN/ALI
 
 **TO DEBUG :**
 - Capsule Neural Networks (PyTorch)
 
 **To DO :** 
-- BiGAN/ALI
+- Disco-GAN
 - Yet to be decided (Other GANs and Language Models)
