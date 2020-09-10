@@ -17,4 +17,5 @@ Various Implementations of DL Model architectures
 - Capsule Neural Networks (PyTorch)
 
 **To DO :** 
+- RNN's and LSTMs
 - Yet to be decided (Other GANs and Language Models)
