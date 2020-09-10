@@ -10,10 +10,11 @@ Various Implementations of DL Model architectures
 - Adversarial AE (TF 1.x)
 - InfoGAN
 - BiGAN/ALI
+- Cycle GAN
+- Disco GAN
 
 **TO DEBUG :**
 - Capsule Neural Networks (PyTorch)
 
 **To DO :** 
-- Disco-GAN
 - Yet to be decided (Other GANs and Language Models)
