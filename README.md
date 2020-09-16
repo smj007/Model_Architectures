@@ -4,7 +4,8 @@ Various Implementations of DL Model architectures
 **List :** 
 - GNN
 - UNet
-- GANs
+- GAN
+- WGAN
 - VAE (TF 1.x)
 - CVAE (TF 1.x)
 - Adversarial AE (TF 1.x)
