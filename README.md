@@ -1,5 +1,5 @@
 # Model_Architectures
-Various Implementations of DL Model architectures
+Various Implementations of DL Model architectures to use as a personal reference repository.
 
 **List :** 
 - GNN
@@ -19,4 +19,5 @@ Various Implementations of DL Model architectures
 
 **To DO :** 
 - RNN's and LSTMs
+- PG-GAN
 - Yet to be decided (Other GANs and Language Models)
