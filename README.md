@@ -18,10 +18,10 @@ Various Implementations of DL Model architectures/Methods to use as a personal r
 - Capsule Neural Networks (PyTorch)
 
 
-**List of Models :** 
-- Custom Loss Function - Writing using TF2
-
 **To DO :** 
 - RNN's and LSTMs
 - PG-GAN
 - Yet to be decided (Other GANs and Language Models)
+
+**List of Methods :** 
+- Custom Loss Function - Writing using TF2
