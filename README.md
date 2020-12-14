@@ -1,7 +1,7 @@
 # Model_Architectures
-Various Implementations of DL Model architectures to use as a personal reference repository.
+Various Implementations of DL Model architectures/Methods to use as a personal reference repository.
 
-**List :** 
+**List of Models :** 
 - GNN
 - UNet
 - GAN
@@ -16,6 +16,10 @@ Various Implementations of DL Model architectures to use as a personal reference
 
 **TO DEBUG :**
 - Capsule Neural Networks (PyTorch)
+
+
+**List of Models :** 
+- Custom Loss Function - Writing using TF2
 
 **To DO :** 
 - RNN's and LSTMs
